@@ -7,4 +7,4 @@ Keep track of the metrics that matter most to the athlete. Offer athletes an int
 This project is just getting started; check back for more soon!
 
 ## Dependencies
-Built with (React)[https://github.com/facebook/react], (Redux)[https://github.com/reduxjs/redux], and (D3)[https://github.com/d3/d3].
+Built with [React](https://github.com/facebook/react), [Redux](https://github.com/reduxjs/redux), and [D3](https://github.com/d3/d3).
