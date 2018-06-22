@@ -9,4 +9,4 @@ This project is just getting started; check back for more soon!
 ## Dependencies
 * [React](https://github.com/facebook/react)
 * [Redux](https://github.com/reduxjs/redux)
-* [D3](https://github.com/d3/d3).
+* [D3](https://github.com/d3/d3)
