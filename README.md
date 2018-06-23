@@ -1,5 +1,5 @@
 # Jacket
-Jacket is a health tracking app designed specifically for athletes.
+Jacket is a health tracking app designed specifically for athletes. In development for iOS and the web.
 
 ## Vision
 ### Keep track of the metrics that matter most to the athlete. 
