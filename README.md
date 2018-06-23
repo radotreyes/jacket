@@ -1,7 +1,7 @@
 # Jacket
 Jacket is a health tracking app designed specifically for strength athletes, be they bodybuilders, powerlifters, strongmen, et al.
 
-# Vision
+## Vision
 ### Keep track of the metrics that matter most to the athlete. 
 * Visualize health and fitness data in a way that's lovely to read and fun to explore.
 
@@ -14,7 +14,7 @@ Jacket is a health tracking app designed specifically for strength athletes, be 
 
 This project is just getting started; check back for more soon!
 
-# Dependencies
+## Dependencies
 * [React](https://github.com/facebook/react)
 * [Redux](https://github.com/reduxjs/redux)
 * [D3](https://github.com/d3/d3)
